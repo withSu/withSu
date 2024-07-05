@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, This is Bumsu Kim. As a university student, I'm learning and researching various fields of development</h1>
+<h1 align="left">Hi👋, This is Bumsu Kim. As a university student, I'm learning and researching various fields of development.</h1>
 <h3 align="left">Taking a preparatory stance to leap forward in coding and development. Passionate about learning, growing, and contributing to the tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbs-kim&label=Profile%20views&color=0e75b6&style=flat" alt="kbs-kim" /> </p>
