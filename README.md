@@ -1,11 +1,11 @@
 <h1 align="left">Hi👋, This is Bumsu Kim. As a university student, I'm learning and researching various fields of development.</h1>
 <h3 align="left">Taking a preparatory stance to leap forward in coding and development. Passionate about learning, growing, and contributing to the tech community.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbs-kim&label=Profile%20views&color=0e75b6&style=flat" alt="kbs-kim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=withSu&label=Profile%20views&color=0e75b6&style=flat" alt="withSu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kbs-kim" alt="kbs-kim" /></a> </p>
 
-- 📝 I regularly write articles on [https://kbs-kim.github.io](https://kbs-kim.github.io)
+- 📝 I regularly write articles on [https://withSu.github.io](https://withSu.github.io)
 
 - 📫 How to reach me **kbsbmori3@gmail.com**
 
