@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://withSu.github.io](https://withSu.github.io)
 
-- 📫 How to reach me **kbsbmori3@gmail.com**
+- 📫 How to reach me **bmori3@naver.com**
 
 ### Connect with me:
 <p align="left">
