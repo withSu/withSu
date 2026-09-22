@@ -17,7 +17,7 @@ I am interested in **self-improving and self-evolving AI**, especially how multi
 
 | Period | Institution / Lab | Role & focus |
 | :--- | :--- | :--- |
-| Jan 2026 – Present | Intelligent Mobile Computing Lab, Hanyang University | Lab member since Jan 2026; integrated M.S./Ph.D. student since Sep 2026.<br>Research in self-improvement, multimodal learning, and anomaly detection |
+| Jan 2026 – Present | Intelligent Mobile Computing Lab, Hanyang University | Research in self-improvement, multimodal learning, and anomaly detection |
 | Sep 2024 – Dec 2025 | CBNU Robotics Lab | Undergraduate researcher · semiconductor microdevice object anomaly detection |
 
 Undergraduate studies: **Information & Communication Engineering, Chungbuk National University**.
