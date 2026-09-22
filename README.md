@@ -5,7 +5,7 @@
 
 I am interested in **self-improving and self-evolving AI**, especially how multimodal language models can learn from feedback and experience. My research background includes industrial anomaly detection and network intrusion detection.
 
-[Website](https://withsu.github.io/) · [Research Interests](https://withsu.github.io/research/) · [CV](https://withsu.github.io/cv/) · [Email](mailto:kbsbmori3@gmail.com)
+[Website](https://withsu.github.io/) · [Research Interests](https://withsu.github.io/research/) · [CV](https://withsu.github.io/cv/) · [Email](mailto:bmori3@hanyang.ac.kr)
 
 ## Research Interests
 
