@@ -23,15 +23,6 @@ I am interested in **self-improving and self-evolving AI**, especially how multi
 
 Undergraduate studies: **Information & Communication Engineering, Chungbuk National University**.
 
-## Selected Publications
-
-| Year | Publication | Venue · Authorship |
-| :--- | :--- | :--- |
-| 2025 | **AdVise: A Real-time Personalized Advertising System Using Gaze Tracking and Deep Reinforcement Learning** | ICCC 2025 · First author |
-| 2025 | **Lightweight Hybrid Network Intrusion Detection Method based on AutoEncoder-XGBoost** | ICTC 2025 · Second author |
-| 2025 | **AutoEncoder-XGBoost 기반 경량 하이브리드 네트워크 침입 탐지 방법** | 한국통신학회 하계종합학술발표회 · 제1저자 |
-| 2025 | **PCB 영상에서 납땜 영역을 포함한 초소형 부품 탐지를 위한 계층적 방법** | ICROS 2025 · 제1저자 |
-
 ## Selected Awards
 
 | Year | Award | Research / project |
