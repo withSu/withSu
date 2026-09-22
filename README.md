@@ -36,7 +36,7 @@ Information & Communication Engineering · Chungbuk National University
 - **국제 산업보안 논문 경진대회 · 장려상**  
   동적 환경 적응형 제로데이 탐지 시스템 연구
 
-- **교내 UROP · 우수상**  
+- **교내 UROP(Undergraduate Research Opportunities Program) · 우수상**  
   PCB 영상에서 초소형 부품 탐지를 위한 계층적 방법
 
 - **재단법인 미래와 소프트웨어 정보보안 공모전 · 장려상**  
