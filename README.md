@@ -7,13 +7,15 @@
 
 I am interested in **self-improving and self-evolving AI** — especially how multimodal language models learn from feedback and experience.
 
+<br>
+
 ## Research Interests
 
 - **MLLM self-improvement & self-evolution** — iterative learning from feedback.
 - **Multimodal learning** — combining complementary information across modalities.
 - **Industrial anomaly detection** — identifying anomalous objects and patterns.
 
-My research background also includes network intrusion detection.
+<br>
 
 ## Education & Research Experience
 
@@ -24,6 +26,8 @@ My research background also includes network intrusion detection.
 
 **Undergraduate studies**  
 Information & Communication Engineering · Chungbuk National University
+
+<br>
 
 ## Selected Awards
 
