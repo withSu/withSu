@@ -40,10 +40,6 @@ Undergraduate studies: **Information & Communication Engineering, Chungbuk Natio
 | 2025 | 교내 UROP · 우수상 | PCB 영상에서 초소형 부품 탐지를 위한 계층적 방법 |
 | 2025 | 재단법인 미래와 소프트웨어 정보보안 공모전 · 장려상 | AI 기반 정보보안 통합 서비스 개발 |
 
-## Selected Project
-
-**[Long-term Memory Chatbot with Associative Recall](https://github.com/withSu/Long-term-Memory-Chatbot-with-Associative-Recall)**  
-A chatbot memory system that combines short-term, long-term, and associative memory using Redis, SQLite, and ChromaDB.
 
 ---
 
